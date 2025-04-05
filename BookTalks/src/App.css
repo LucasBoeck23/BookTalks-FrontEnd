@@ -1,0 +1,14 @@
+#root {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  z-index: 0;
+}
+@font-face {
+  font-family: "JosefSans";
+  src: url("../../assets/fonts/JosefinSans-VariableFont_wght.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
